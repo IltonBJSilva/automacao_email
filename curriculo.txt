@@ -1,0 +1,84 @@
+﻿ILTON BATISTA
+iltonbatista2018@gmail.com
+
+
+https://www.linkedin.com/in/iltonbsilva/
+https://github.com/IltonBJSilva
+	
+
+OBJETIVO PESSOAL
+Desejo consolidar minha carreira, utilizando minhas habilidades em programação e meu conhecimento em tecnologia para contribuir de forma significativa em projetos desafiadores e contando com meu interesse em matemática e física além da parte administrativas e gestão para aprimorar minhas habilidades de raciocínio e tomadas de decisões cada vez mais assertivas. Meu objetivo é crescer profissionalmente, adquirir novos conhecimentos e experiências, e assumir responsabilidades cada vez mais complexas, com uma mentalidade anti frágil e proativa, estou pronto para enfrentar novos desafios e contribuir de forma significativa para o sucesso da equipe e da organização.
+
+
+FORMAÇÃO
+Bacharelado em Sistemas de Informação
+Estácio
+Janeiro 2021 - Cursando
+Eletromecânica
+Senai
+2018 - 2018
+Uberhub
+UberHub Code Club
+2018 - 2019
+DIO e Udemy +80 Certificados TI
+Repositório de Certificados
+2020 - 2021
+Linkedin Learning +50 Certificados TI
+Linkedin
+2022 - 2023
+
+
+HABILIDADES E COMPETÊNCIAS
+* HTML, CSS & JavaScript 
+* Python Avançado
+* API
+* C# com ambiente .NET é uma experiência em Java
+* Conhecimento em Banco SQL e SGBDS
+* Versionamento com GIT
+* Django
+* Angular e Ajax
+* Docker
+* Selenium
+* API
+CONHECIMENTO GERAIS
+* Prototipagem
+* Fisica e Matematica
+* Conhecimento em sistemas Unix
+* Automação de sistemas
+* Metodologias Ágeis
+* Inglês Intermediário I - Ouvir e escrever. 
+* Storytelling
+* Regra de Negócio
+
+
+EXPERIÊNCIA PROFISSIONAL
+Suporte de Infraestrutura de redes
+Na Accenture
+Fevereiro 2021- Presente
+* Como analista de infraestrutura de redes, eu sempre tive ótimos indicadores de atendimento em GPON e rede metálica tanto para configuração de dados quanto para redes.
+* Ativação de internet e telefonia fixa juntamente com produtos adicionais em ambos indo de residencial a configuração de ip fixo para ambientes mais corporativos
+   * Infraestrutura de Redes GPON e Metálica, Infraestrutura de VOIP, Nokia, Fiberhome, huawei, calix, Zhone
+* Realização de projetos a parte de desenvolvimento de software criando ferramentas e automações para ajudar nos processos interno
+   * Python, Django, MySQL, Docker, Selenium.
+
+
+Desenvolvedor Aprendiz
+Na Sankhya
+Agosto 2018 - Janeiro 2020
+* Realizamos projetos para auxiliar colaboradores internos sendo responsáveis em criar sistemas para agilizar o trabalho encurtando tempo de algumas demandas que eram feitas de forma manual.
+   * Java e Java WEB, Spring Boot, Angular, MySQL, AJAX, Prototipagem, Documentação de projeto
+
+
+OUTROS PROJETOS
+Portfolio
+Github
+Dezembro 2019 - Presente
+Eu desenvolvi um portfólio hospedado pelo github page para apresentar de forma mais agradável minhas habilidades e competências além de projetos e conhecimentos gerais, e o próprio repositório também é um projeto onde aplico meus conhecimentos em frontend.
+Libook
+Github
+Novembro 2022 - Janeiro 2023
+Projeto Fullstack aplico meus conhecimentos em desenvolvimento utilizando backend, frontend junto de um API REST com framework Django, o projeto tem o objetivo de ser um CRUD de livros onde é possível criar, adicionar, remover e atualizar
+Adote
+Github
+Janeiro 2023 - Fevereiro 2023
+Aplicação que conecta pessoas que possuem animais para doação com interessadas em ter um animal de estimação. Desenvolvida uma aplicação completa para adoção de animais, usei as seguintes tecnologias para a criação desse projeto, Python, Django 4.1, SQLite, Arquitetura MVT
