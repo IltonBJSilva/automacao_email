@@ -9,15 +9,6 @@ print('Automação iniciada...')
 time.sleep(2)
 print('')
 
-print('Acessando site INDEED vagas de emprego...')
-time.sleep(3)
-print('')
-
-print('Iniciando captura de emails...')
-print('')
-print('')
-
-
 with open('curriculo.txt','r',encoding='utf-8') as arquivo2:
     curriculo = arquivo2.read()
 
