@@ -26,11 +26,9 @@ with open('lista-de-emails.txt', 'r') as arquivo_emails:
 
 # Configuração inicial para o envio
 fromaddr = "iltonbatista2018@gmail.com"  # Insira seu e-mail aqui
-msg = MIMEMultipart()
-msg['From'] = fromaddr
-msg['Subject'] = "CURRICULO"
-body = curriculo
-msg.attach(MIMEText(body, 'plain'))
+
+
+
 
 s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls()
@@ -38,7 +36,13 @@ s.login(fromaddr, "ynqu exaj vsuw qeru")  # Insira a senha do seu Gmail aqui
 
 # Iterar pela lista de e-mails e enviar e-mails
 for toaddr in lista_emails:
+    msg = MIMEMultipart()
+    msg['From'] = fromaddr
     msg['To'] = toaddr
+    msg['Subject'] = "CURRICULO"
+    body = curriculo
+    msg.attach(MIMEText(body, 'plain')) 
+    
     s.sendmail(fromaddr, toaddr, msg.as_string())
     print(f'E-mail para {toaddr} enviado com sucesso!')
 
