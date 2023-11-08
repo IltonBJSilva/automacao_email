@@ -25,14 +25,11 @@ with open('lista-de-emails.txt', 'r') as arquivo_emails:
     lista_emails = arquivo_emails.read().splitlines()
 
 # Configuração inicial para o envio
-fromaddr = "iltonbatista2018@gmail.com"  # Insira seu e-mail aqui
-
-
-
+fromaddr = "EMAIL"  # Insira seu e-mail aqui
 
 s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls()
-s.login(fromaddr, "ynqu exaj vsuw qeru")  # Insira a senha do seu Gmail aqui
+s.login(fromaddr, "SENHA DO APP DA GOOGLE DO SEU EMAIL")  # Insira a senha do seu Gmail aqui
 
 # Iterar pela lista de e-mails e enviar e-mails
 for toaddr in lista_emails:
